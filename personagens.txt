@@ -6,3 +6,5 @@ Han Solo
 Jabba the Hut
 
 Kylo Ren
+Rey
+Finn
